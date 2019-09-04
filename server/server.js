@@ -83,6 +83,7 @@ app.get('/user/profile',auth,(req,res)=>{
     //       res.status(200).send('you have access to this page');
        
     //  });
+    
 
 
     //res.status(200).send('Ok');
