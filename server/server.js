@@ -85,7 +85,6 @@ app.get('/user/profile',auth,(req,res)=>{
     //  });
     
 
-
     //res.status(200).send('Ok');
 
     res.status(200).send(req.token);
